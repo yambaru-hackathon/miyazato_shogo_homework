@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   int _currentIndex = 0;
 
   final _pageWidgets = [
-    const FeedPage(),
+    FeedPage(),
     MyPage(),
   ];
 
